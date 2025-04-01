@@ -15,7 +15,7 @@ I am continuously improving my skills in development and working on new projects
 - Git
 
 ## Contact Me
-- 📧 aleksandrslenkin7@gmail.com(mailto:aleksandrslenkin7@gmail.com)
+- 📧 My Email:(mailto:aleksandrslenkin7@gmail.com)
 - 🌐 My LinkedIn: Aleksandr Shlenkin [https://www.linkedin.com/feed/](url)
 
 Let's connect and exchange ideas! 🚀
