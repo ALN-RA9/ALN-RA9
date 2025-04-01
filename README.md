@@ -16,6 +16,6 @@ I am continuously improving my skills in development and working on new projects
 
 ## Contact Me
 - 📧 My Email:(mailto:aleksandrslenkin7@gmail.com)
-- 🌐 My LinkedIn: Aleksandr Shlenkin [https://www.linkedin.com/feed/](url)
+- 🌐 My LinkedIn: Aleksandr Shlenkin [https://www.linkedin.com/in/aleksandr-shlenkin-8ba923354/](url)
 
 Let's connect and exchange ideas! 🚀
