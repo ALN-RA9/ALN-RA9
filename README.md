@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @ALN-RA9
-- 👀 I’m interested in Videogames
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ---
-- 📫 How to reach me ---
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ---
+# Hi, I'm Aleksandr Shlenkin 👋
+I'm originally from **Russia**, but currently living in **Germany**. I'm passionate about programming, especially developing text-based adventure games. 
+My main language is **Python**, and I also work with **HTML/CSS**. 
+I am continuously improving my skills in development and working on new projects.
 
-<!---
-ALN-RA9/ALN-RA9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 💻 Experience with **Python** and **HTML/CSS**.
+- 🎮 Developing text-based adventure games.
+- 🧑‍💻 Constantly improving my programming skills and looking for new challenges.
+- 🌍 Originally from Russia, but currently living in Germany.
+
+## Technologies & Tools
+- Python
+- HTML/CSS
+- Git
+
+## Contact Me
+- 📧 aleksandrslenkin7@gmail.com(mailto:aleksandrslenkin7@gmail.com)
+- 🌐 My LinkedIn: Aleksandr Shlenkin [https://www.linkedin.com/feed/](url)
+
+Let's connect and exchange ideas! 🚀
