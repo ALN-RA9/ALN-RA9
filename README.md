@@ -1,11 +1,10 @@
-# Hi, I'm Aleksandr Shlenkin 👋
-I'm originally from **Russia**, but currently living in **Germany**. I'm passionate about programming, especially developing text-based adventure games. 
+# Hi, I'm Aleksandr Shlenkin 
+I'm originally from **Russia**, but currently living in **Germany**. I'm passionate about programming.
 My main language is **Python**, and I also work with **HTML/CSS**. 
 I am continuously improving my skills in development and working on new projects.
 
 ## About Me
 - 💻 Experience with **Python** and **HTML/CSS**.
-- 🎮 Developing text-based adventure games and other projects.
 - 🧑‍💻 Constantly improving my programming skills and looking for new challenges.
 - 🌍 Originally from Russia, but currently living in Germany.
 
